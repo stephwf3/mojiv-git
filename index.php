@@ -8,4 +8,4 @@
 
 	$games = $queryGame->fetchAll(PDO::FETCH_ASSOC);
 
-	echo '<pre>'; var_dump($games); echo '</pre>';0
+	echo '<pre>'; var_dump($games); echo '</pre>';
